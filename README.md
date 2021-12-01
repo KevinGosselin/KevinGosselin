@@ -1,0 +1,2 @@
+- 👋 Hi, my name is Kevin Gosselin. I am an undergraduate student at Bishop's Univeristy in CS - Information Technology.
+- I am an aspiring Data Scientist passionate about data and business strategies.
